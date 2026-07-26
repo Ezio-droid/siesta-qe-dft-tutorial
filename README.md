@@ -10,19 +10,6 @@ precomputed files are intentional: a benchmark of the shortened notebook
 showed that executing every calculation requires more than five hours and the
 QE section still did not finish within its three-hour allocation.
 
-## Notebook author
-
-The original tutorial notebooks were created by:
-
-**Aleksandar Staykov, PhD**  
-Associate Professor and Principal Investigator  
-International Institute for Carbon-Neutral Energy Research (WPI-I²CNER)  
-Kyushu University
-
-The Narval execution workflow, generated inputs, benchmark records, and
-reference outputs in this repository are supporting materials prepared to make
-the notebooks practical for the conference tutorial.
-
 ## Start here
 
 | Goal | Use |
