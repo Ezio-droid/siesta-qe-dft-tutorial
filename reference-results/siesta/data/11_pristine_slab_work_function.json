@@ -1,0 +1,20 @@
+{
+  "stage": "11_pristine_slab_work_function",
+  "postprocessed_utc": "2026-07-25T03:55:52.573491+00:00",
+  "source_grid": "results/raw/11_pristine_slab_work_function/ElectrostaticPotential.grid.nc",
+  "source_eigenvalues": "results/raw/11_pristine_slab_work_function/slab.EIG",
+  "result": {
+    "vacuum_eV": 0.6383042335510254,
+    "fermi_eV": -6.05160874,
+    "vbm_eV": -6.05420984,
+    "cbm_eV": -6.02727859,
+    "ionization_potential_eV": 6.692514073551026,
+    "electron_affinity_eV": 6.665582823551025,
+    "grid_shape": [
+      36,
+      36,
+      400
+    ],
+    "eigenvalue_count": 5408
+  }
+}

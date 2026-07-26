@@ -1,0 +1,73 @@
+{
+  "notebook": "03_siesta_neb_benchmark.ipynb",
+  "status": "succeeded",
+  "error": null,
+  "started_utc": "2026-07-25T23:30:03.208377+00:00",
+  "finished_utc": "2026-07-26T00:13:46.242233+00:00",
+  "wall_seconds": 2623.0338570848107,
+  "cells": [
+    {
+      "local_cell_index": 0,
+      "original_cell_index": 27,
+      "cell_type": "markdown",
+      "started": null,
+      "finished": null
+    },
+    {
+      "local_cell_index": 1,
+      "original_cell_index": 28,
+      "cell_type": "markdown",
+      "started": null,
+      "finished": null
+    },
+    {
+      "local_cell_index": 2,
+      "original_cell_index": 29,
+      "cell_type": "code",
+      "started": "2026-07-25T23:30:28.260835Z",
+      "finished": "2026-07-25T23:36:20.951421Z"
+    },
+    {
+      "local_cell_index": 3,
+      "original_cell_index": 30,
+      "cell_type": "markdown",
+      "started": null,
+      "finished": null
+    },
+    {
+      "local_cell_index": 4,
+      "original_cell_index": 31,
+      "cell_type": "code",
+      "started": "2026-07-25T23:36:20.952687Z",
+      "finished": "2026-07-25T23:44:33.969932Z"
+    },
+    {
+      "local_cell_index": 5,
+      "original_cell_index": 32,
+      "cell_type": "markdown",
+      "started": null,
+      "finished": null
+    },
+    {
+      "local_cell_index": 6,
+      "original_cell_index": 33,
+      "cell_type": "code",
+      "started": "2026-07-25T23:44:33.971068Z",
+      "finished": "2026-07-25T23:51:58.183332Z"
+    },
+    {
+      "local_cell_index": 7,
+      "original_cell_index": 34,
+      "cell_type": "markdown",
+      "started": null,
+      "finished": null
+    },
+    {
+      "local_cell_index": 8,
+      "original_cell_index": 35,
+      "cell_type": "code",
+      "started": "2026-07-25T23:51:58.184567Z",
+      "finished": "2026-07-26T00:13:45.027430Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "segments": [
+    {
+      "segment": "01_siesta_dft",
+      "status": "succeeded",
+      "wall_seconds": 5108.884698258713,
+      "error": null
+    },
+    {
+      "segment": "02_siesta_postprocess",
+      "status": "succeeded",
+      "wall_seconds": 288.0222182366997,
+      "error": null
+    },
+    {
+      "segment": "03_siesta_neb",
+      "status": "succeeded",
+      "wall_seconds": 2623.0338570848107,
+      "error": null
+    }
+  ],
+  "total_executed_wall_seconds": 8019.940773580223,
+  "all_available_segments_succeeded": true
+}

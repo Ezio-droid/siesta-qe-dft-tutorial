@@ -1,0 +1,11 @@
+{
+  "stage": "07_h_slab_low_opt",
+  "started_utc": "2026-07-25T01:06:35.837672+00:00",
+  "finished_utc": "2026-07-25T02:19:45.934718+00:00",
+  "duration_seconds": 4390.097046,
+  "result": {
+    "converged": true,
+    "initial_energy_eV": -5348.129983,
+    "final_energy_eV": -5357.804428
+  }
+}

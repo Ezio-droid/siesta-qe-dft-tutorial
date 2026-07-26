@@ -1,0 +1,20 @@
+segment,original_cell_index,calculation,seconds,minutes
+01_siesta_dft,2,SIESTA diamond single point,85.28,1.42
+01_siesta_dft,4,SIESTA bulk k-point convergence,224.24,3.74
+01_siesta_dft,6,SIESTA bulk mesh-cutoff convergence,267.12,4.45
+01_siesta_dft,8,SIESTA bulk optimization,109.70,1.83
+01_siesta_dft,10,SIESTA bulk DOS,30.67,0.51
+01_siesta_dft,12,SIESTA pristine slab optimization,303.86,5.06
+01_siesta_dft,14,SIESTA pristine slab DOS,48.77,0.81
+01_siesta_dft,16,Structure preparation,0.01,0.00
+01_siesta_dft,18,SIESTA H slab low optimization,3433.16,57.22
+01_siesta_dft,20,SIESTA H slab high optimization,434.48,7.24
+01_siesta_dft,22,SIESTA H slab DOS,42.67,0.71
+01_siesta_dft,24,SIESTA H slab work-function DFT,42.96,0.72
+02_siesta_postprocess,24,SIESTA H slab work-function postprocessing,214.21,3.57
+01_siesta_dft,26,SIESTA pristine work-function DFT,35.32,0.59
+02_siesta_postprocess,26,SIESTA pristine work-function postprocessing,0.41,0.01
+03_siesta_neb,29,SIESTA graphene k-point convergence,352.69,5.88
+03_siesta_neb,31,SIESTA Ni initial endpoint optimization,493.02,8.22
+03_siesta_neb,33,SIESTA Ni final endpoint optimization,444.21,7.40
+03_siesta_neb,35,SIESTA notebook NEB,1306.84,21.78

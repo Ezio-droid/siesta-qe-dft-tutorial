@@ -1,0 +1,10 @@
+{
+  "stage": "12_graphene_kpoints",
+  "started_utc": "2026-07-25T14:33:14.828352+00:00",
+  "finished_utc": "2026-07-25T14:37:49.951931+00:00",
+  "duration_seconds": 275.123579,
+  "result": {
+    "points": 14,
+    "last_energy_eV": -327.207521
+  }
+}

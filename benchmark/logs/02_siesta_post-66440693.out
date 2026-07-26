@@ -1,0 +1,24 @@
+{
+  "notebook": "02_siesta_postprocess_benchmark.ipynb",
+  "status": "succeeded",
+  "error": null,
+  "started_utc": "2026-07-25T23:25:01.846265+00:00",
+  "finished_utc": "2026-07-25T23:29:49.868500+00:00",
+  "wall_seconds": 288.0222182366997,
+  "cells": [
+    {
+      "local_cell_index": 0,
+      "original_cell_index": 24,
+      "cell_type": "code",
+      "started": "2026-07-25T23:26:13.931139Z",
+      "finished": "2026-07-25T23:29:48.137301Z"
+    },
+    {
+      "local_cell_index": 1,
+      "original_cell_index": 26,
+      "cell_type": "code",
+      "started": "2026-07-25T23:29:48.139512Z",
+      "finished": "2026-07-25T23:29:48.552715Z"
+    }
+  ]
+}

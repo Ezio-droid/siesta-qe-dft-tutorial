@@ -1,0 +1,11 @@
+{
+  "stage": "05_slab_opt",
+  "started_utc": "2026-07-25T00:42:58.522052+00:00",
+  "finished_utc": "2026-07-25T00:59:10.024892+00:00",
+  "duration_seconds": 971.50284,
+  "result": {
+    "converged": true,
+    "initial_energy_eV": -5221.641428,
+    "final_energy_eV": -5222.021412
+  }
+}

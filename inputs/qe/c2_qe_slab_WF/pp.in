@@ -1,0 +1,14 @@
+&INPUTPP
+    prefix='c2_qe'
+    outdir='.'
+    filplot='potential'
+    plot_num=11
+/
+
+&PLOT
+    nfile=1
+    filepp(1)='potential'
+    iflag=3
+    output_format=6
+    fileout='potential.cube'
+/

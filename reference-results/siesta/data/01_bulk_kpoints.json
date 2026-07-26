@@ -1,0 +1,10 @@
+{
+  "stage": "01_bulk_kpoints",
+  "started_utc": "2026-07-24T23:50:03.491911+00:00",
+  "finished_utc": "2026-07-24T23:58:03.164662+00:00",
+  "duration_seconds": 479.672751,
+  "result": {
+    "points": 8,
+    "last_energy_eV": -1308.995332
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "stage": "14_ni_final_opt",
+  "started_utc": "2026-07-25T19:57:14.772690+00:00",
+  "finished_utc": "2026-07-25T20:15:13.759526+00:00",
+  "duration_seconds": 1078.986836,
+  "result": {
+    "converged": true,
+    "initial_energy_eV": -9795.545859,
+    "final_energy_eV": -9795.962463
+  }
+}

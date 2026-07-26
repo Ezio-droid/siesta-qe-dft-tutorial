@@ -1,0 +1,10 @@
+{
+  "stage": "06_slab_dos",
+  "started_utc": "2026-07-25T01:03:57.887141+00:00",
+  "finished_utc": "2026-07-25T01:06:26.099416+00:00",
+  "duration_seconds": 148.212275,
+  "result": {
+    "energy_eV": -5222.021414,
+    "dos_points": 222
+  }
+}

@@ -1,0 +1,53 @@
+SystemName	c2
+SystemLabel	c2
+
+DM.MixingWeight	0.1
+MaxSCFIterations	100
+SCFMustConverge	True
+
+Spin	non-polarized
+XC.functional	GGA
+XC.authors	PBE
+
+MeshCutoff	3401.4232530459053	eV
+PAO.EnergyShift	0.13605693012183623	eV
+
+NumberOfSpecies	1
+NumberOfAtoms	8
+%block ChemicalSpecieslabel
+    1 6 C.1 C.1.psml
+%endblock ChemicalSpecieslabel
+
+%block PAO.BasisSizes
+    C.1	DZP
+%endblock PAO.BasisSizes
+
+
+LatticeConstant	1.0 Ang
+%block LatticeVectors
+    3.567 0.0 0.0
+    0.0 3.567 0.0
+    0.0 0.0 3.567
+%endblock LatticeVectors
+AtomicCoordinatesFormat	Ang
+%block AtomicCoordinatesAndAtomicSpecies
+    0.0 0.0 0.0 1
+    0.89175 0.89175 0.89175 1
+    0.0 1.7835 1.7835 1
+    0.89175 2.67525 2.67525 1
+    1.7835 0.0 1.7835 1
+    2.67525 0.89175 2.67525 1
+    1.7835 1.7835 0.0 1
+    2.67525 2.67525 0.89175 1
+%endblock AtomicCoordinatesAndAtomicSpecies
+%block DM.InitSpin
+%endblock DM.InitSpin
+
+
+#KPoint grid
+%block kgrid_Monkhorst_Pack
+     5       0       0  0.0
+     0       5       0  0.0
+     0       0       5  0.0
+%endblock kgrid_Monkhorst_Pack
+

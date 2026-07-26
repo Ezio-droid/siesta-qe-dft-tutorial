@@ -1,0 +1,9 @@
+{
+  "stage": "00_single_point",
+  "started_utc": "2026-07-24T23:40:08.877805+00:00",
+  "finished_utc": "2026-07-24T23:40:50.483227+00:00",
+  "duration_seconds": 41.605422,
+  "result": {
+    "energy_eV": -1308.986275
+  }
+}

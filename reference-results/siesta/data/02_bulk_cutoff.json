@@ -1,0 +1,10 @@
+{
+  "stage": "02_bulk_cutoff",
+  "started_utc": "2026-07-24T23:58:27.127298+00:00",
+  "finished_utc": "2026-07-25T00:08:42.458768+00:00",
+  "duration_seconds": 615.33147,
+  "result": {
+    "points": 11,
+    "last_energy_eV": -1308.994797
+  }
+}

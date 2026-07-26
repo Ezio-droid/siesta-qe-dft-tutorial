@@ -1,0 +1,90 @@
+{
+  "generated_utc": "2026-07-24T20:33:45.921029+00:00",
+  "files": [
+    {
+      "path": "results/data/.gitkeep",
+      "size_bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "results/figures/.gitkeep",
+      "size_bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "results/structures/.gitkeep",
+      "size_bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "results/logs/.gitkeep",
+      "size_bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "environment/requirements.txt",
+      "size_bytes": 62,
+      "sha256": "d4db8e561421c124ad54b3536541ce179c18d9448af1558309e66f0e30d7b609"
+    },
+    {
+      "path": "config/narval.env",
+      "size_bytes": 587,
+      "sha256": "26b0046746d8f26af68416519df20156d384a3ad9660f0b10c5e60c83cef0fcd"
+    },
+    {
+      "path": "scripts/archive_full.sh",
+      "size_bytes": 434,
+      "sha256": "f98521295bb070cb8b1ed34a91a3fb9030c57db0b93bca11b3f8f5aad5a8d1bf"
+    },
+    {
+      "path": "scripts/collect_results.sh",
+      "size_bytes": 753,
+      "sha256": "d0be1fa787ce2c0c9d7a0a6c0652269b054a8d8bafcadec43bad959a7b23e01d"
+    },
+    {
+      "path": "scripts/make_manifest.py",
+      "size_bytes": 1146,
+      "sha256": "21325d470b0b22494034e7bb115f3eaeab24e6a03cfb5c34069bb1164f1de74e"
+    },
+    {
+      "path": "scripts/preflight.py",
+      "size_bytes": 1861,
+      "sha256": "bb93db6ff28691b1516a11b0efd94acbe5d44b53e155a9a585fbf565ab77c6b3"
+    },
+    {
+      "path": "scripts/run_stage.py",
+      "size_bytes": 19000,
+      "sha256": "71c1c134994b52302a67f9b3a321c86e971a5921a96196fba33e00162363d018"
+    },
+    {
+      "path": "slurm/00_diagnose.sh",
+      "size_bytes": 736,
+      "sha256": "e046964cfa434b854709eb6b3ded452fde08d3ff2b6281cb06e83ebb2189ed37"
+    },
+    {
+      "path": "slurm/01_setup_environment.sh",
+      "size_bytes": 517,
+      "sha256": "f1c5e1cfd709b2a74da46ae9015322dcf5c52c8b2d245624587a245b1adee562"
+    },
+    {
+      "path": "slurm/02_preflight.sh",
+      "size_bytes": 345,
+      "sha256": "9bcba17ccbdae704f9ca4c9dc2e393f096e49da930fc4382a63d0c3ab63f0899"
+    },
+    {
+      "path": "slurm/siesta_stage.sbatch",
+      "size_bytes": 932,
+      "sha256": "26fd740af3f14f3981153737e393a56f09684d5daf2f7664ab02c52d7688a1fc"
+    },
+    {
+      "path": "slurm/submit_chain.sh",
+      "size_bytes": 1014,
+      "sha256": "8cc1aa05e2e6fd1a86a3f7e17e7e592c85344350fdfc8abaf5d33daedaea51b6"
+    },
+    {
+      "path": "slurm/submit_stage.sh",
+      "size_bytes": 645,
+      "sha256": "303663f5abf6a7794893e8a0e4c7de1f7b8d120e82e43d5328e9d25e37740f72"
+    }
+  ]
+}

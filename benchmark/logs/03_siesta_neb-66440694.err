@@ -1,0 +1,106 @@
+
+Lmod is automatically replacing "gcc/12.3" with "intel/2023.2.1".
+
+Gamma-point calculation with interaction between periodic images
+Some features might not work optimally:
+e.g. DM initialization from atomic data
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+srun: Step created for StepId=66440694.59
+Job completed
+Job completed
+Job completed
+srun: Step created for StepId=66440694.62
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+srun: Step created for StepId=66440694.70
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+srun: Step created for StepId=66440694.79
+Job completed
+Job completed
+srun: Step created for StepId=66440694.81
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
+Job completed
