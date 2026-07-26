@@ -1,5 +1,9 @@
 # Notebooks
 
+The original tutorial notebooks were created by **Aleksandar Staykov, PhD**,
+Associate Professor and Principal Investigator at the International Institute
+for Carbon-Neutral Energy Research (WPI-I²CNER), Kyushu University.
+
 | Notebook | Purpose |
 |---|---|
 | `tutorial-short.ipynb` | Shorter version supplied for the conference |
