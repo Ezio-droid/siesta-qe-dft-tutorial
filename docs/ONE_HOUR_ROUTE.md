@@ -74,3 +74,6 @@ directory. Run the command from the repository root.
 In `notebooks/tutorial-short.ipynb`, do not execute complete convergence loops,
 geometry optimizations, work-function production runs, or either NEB section.
 They remain in the notebook for later study.
+
+The additional notebook under `notebooks/extended-ghost-neb/` is strictly a
+post-tutorial exercise. Do not run it during the one-hour session.

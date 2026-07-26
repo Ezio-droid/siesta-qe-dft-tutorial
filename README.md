@@ -10,6 +10,19 @@ precomputed files are intentional: a benchmark of the shortened notebook
 showed that executing every calculation requires more than five hours and the
 QE section still did not finish within its three-hour allocation.
 
+## Notebook author
+
+The original tutorial notebooks were created by:
+
+**Aleksandar Staykov, PhD**  
+Associate Professor and Principal Investigator  
+International Institute for Carbon-Neutral Energy Research (WPI-I²CNER)  
+Kyushu University
+
+The Narval execution workflow, generated inputs, benchmark records, and
+reference outputs in this repository are supporting materials prepared to make
+the notebooks practical for the conference tutorial.
+
 ## Start here
 
 | Goal | Use |
@@ -17,6 +30,7 @@ QE section still did not finish within its three-hour allocation.
 | Follow the conference session | [`docs/ONE_HOUR_ROUTE.md`](docs/ONE_HOUR_ROUTE.md) |
 | Open the shortened notebook | [`notebooks/tutorial-short.ipynb`](notebooks/tutorial-short.ipynb) |
 | Study the complete notebook | [`notebooks/tutorial-full-reference.ipynb`](notebooks/tutorial-full-reference.ipynb) |
+| Explore the ghost-atom NEB extension afterward | [`notebooks/extended-ghost-neb/`](notebooks/extended-ghost-neb/) |
 | Run the restartable SIESTA workflow on Narval | [`docs/NARVAL.md`](docs/NARVAL.md) |
 | Inspect generated inputs | [`inputs/`](inputs/) |
 | Use precomputed results | [`reference-results/`](reference-results/) |
@@ -46,6 +60,7 @@ reference files.
 notebooks/
   tutorial-short.ipynb             Shortened notebook supplied for the tutorial
   tutorial-full-reference.ipynb    Original full notebook
+  extended-ghost-neb/              Post-tutorial extension and supplied assets
   narval-segments/                 Headless benchmark copies split by toolchain
 inputs/
   siesta/                          Generated SIESTA FDF inputs
