@@ -43,3 +43,4 @@ f52b6d4d1c606e5624b1dc7b2218f220  H.pbe-rrkjus_psl.1.0.0.UPF
 Obtain C and H from the Quantum ESPRESSO PSlibrary and Ni from the GBRV
 library, subject to their respective terms. Do not substitute another file
 with the same element symbol without reconverging the numerical settings.
+If not then: https://drive.google.com/file/d/1WCKHWtrjmiD6gAsUvJhUpItDYMHlU3zj/view?usp=sharing
