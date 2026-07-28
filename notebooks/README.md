@@ -1,7 +1,7 @@
 # For changing the path
 
 
-What we do is the following they download the Note2.pynb, they add it to the project folder, they download the pseudopotentials and they add the folders pseudo_siesta dn pseudo_qespresso, then they open a terminal, they run pwd to see their path and they use this commnad: sed -i 's|/Users/staykov/pseudodojo|/project/60004/jose12madrid/pseudo_siesta|g' Notes_2.ipynb
+Download the Note2.pynb, add it to the project folder, then download the pseudopotentials and add the folders pseudo_siesta dn pseudo_qespresso, then open a terminal, run pwd to see the path and use this commnad: sed -i 's|/Users/staykov/pseudodojo|/project/60004/jose12madrid/pseudo_siesta|g' Notes_2.ipynb
 and:  sed -i 's|//Users/staykov/pseudo_espresso|/project/60004/jose12madrid/pseudo_espresso|g' Notes_2.ipynb
 
 
